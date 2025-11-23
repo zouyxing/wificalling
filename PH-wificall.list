@@ -1,0 +1,5 @@
+# 菲律宾 Globe
+DOMAIN-SUFFIX, weconnect.globe.com.ph
+DOMAIN-SUFFIX, globe.com.ph
+IP-CIDR, 110.54.220.2/32
+IP-CIDR, 110.54.0.0/16
