@@ -1,0 +1,22 @@
+# 澳大利亚运营商 (MCC 505)
+# Telstra (MCC 505 MNC 01, 11)
+DOMAIN-SUFFIX, epdg.epc.mnc001.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX, ims.mnc001.mcc505.3gppnetwork.org
+DOMAIN-KEYWORD, mnc001.mcc505
+DOMAIN-SUFFIX, telstra.com.au
+# Optus (MCC 505 MNC 02)
+DOMAIN-SUFFIX, epdg.epc.mnc002.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX, ims.mnc002.mcc505.3gppnetwork.org
+DOMAIN-KEYWORD, mnc002.mcc505
+IP-CIDR, 210.49.47.193/32
+IP-CIDR, 210.49.47.194/32
+DOMAIN-SUFFIX, optus.com.au
+DOMAIN-SUFFIX, optus.net.au
+# Vodafone Australia (MCC 505 MNC 03, 07)
+DOMAIN-SUFFIX, epdg.epc.mnc003.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX, epdg.epc.mnc007.mcc505.pub.3gppnetwork.org
+DOMAIN-KEYWORD, mnc003.mcc505
+DOMAIN-KEYWORD, mnc007.mcc505
+DOMAIN-SUFFIX, vodafone.com.au
+# 澳大利亚通用网段
+IP-CIDR, 210.49.0.0/16
