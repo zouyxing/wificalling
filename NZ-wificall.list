@@ -1,0 +1,24 @@
+# 新西兰运营商 (MCC 530)
+# Spark NZ (MCC 530 MNC 05)
+DOMAIN-SUFFIX, epdg.epc.mnc005.mcc530.pub.3gppnetwork.org
+DOMAIN-KEYWORD, mnc005.mcc530
+DOMAIN-SUFFIX, spark.co.nz
+# Vodafone NZ / One NZ (MCC 530 MNC 01)
+DOMAIN-SUFFIX, epdg.epc.mnc001.mcc530.pub.3gppnetwork.org
+DOMAIN-KEYWORD, mnc001.mcc530
+IP-CIDR, 203.96.213.192/32
+IP-CIDR, 203.96.213.193/32
+DOMAIN-SUFFIX, vodafone.co.nz
+DOMAIN-SUFFIX, one.nz
+# 2degrees (MCC 530 MNC 24)
+DOMAIN-SUFFIX, epdg.ims.2degrees.net.nz
+DOMAIN-SUFFIX, epdg.epc.mnc024.mcc530.pub.3gppnetwork.org
+DOMAIN-KEYWORD, mnc024.mcc530
+IP-CIDR, 118.148.14.20/32
+IP-CIDR, 118.149.14.20/32
+DOMAIN-SUFFIX, 2degrees.net.nz
+DOMAIN-SUFFIX, 2degreesmobile.co.nz
+# 新西兰通用网段
+IP-CIDR, 203.96.0.0/16
+IP-CIDR, 118.148.0.0/16
+IP-CIDR, 118.149.0.0/16
